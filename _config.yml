@@ -2,7 +2,7 @@
 title: 'Agod的独立博客'
 description: 'Where there is a will, there is a way.'
 keyword: 'Agod, Agod的独立博客, Agod的博客, 前端, javascript, vuejs, nodejs'
-url: 'https://lazyman.github.io' # your host
+url: 'https://agod-tiger.github.io/index.html' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
